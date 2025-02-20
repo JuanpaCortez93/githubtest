@@ -21,7 +21,7 @@ jobs:
           node-version: 18
 
       - name: Running Script
-        run: node .\scripts\mushroomsoftEmployeesData.js      
+        run: node ./scripts/mushroomsoftEmployeesData.js      
 
       - name: Commit and Push Changes
         uses: stefanzweifel/git-auto-commit-action@v5
