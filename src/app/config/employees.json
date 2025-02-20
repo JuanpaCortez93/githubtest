@@ -2,8 +2,8 @@
   {
     "id": 9,
     "en": {
-      "title": "Leonardo Riofrío",
-      "subtitle": "Co-Founder and CTO",
+      "title": "Oscar Leonardo Riofrío",
+      "subtitle": "Co-Founder and Chief Technical Officer",
       "description": "<h4>BIO</h4> <p> <b>Career:</b> Software Engineering & Business Administration (MBA)</p> <p> <b>Expert in:</b> Angular, SQL Server </p> <p> <b>Hobby:</b> Squash </p>",
       "image": "employeesProfilePhoto/9.png",
       "showDescription": false,
@@ -11,8 +11,8 @@
       "actionText": "See more..."
     },
     "es": {
-      "title": "Leonardo Riofrío",
-      "subtitle": "Co-Fundador y CTO",
+      "title": "Oscar Leonardo Riofrío",
+      "subtitle": "Co-Fundador y Director Técnico",
       "description": "<h4>BIOGRAFÍA</h4> <p> <b>Carrera:</b> Ingeniería de Software y Administración de Empresas (MBA)</p> <p> <b>Experto en:</b> Angular, SQL Server </p> <p> <b>Hobby:</b> Squash </p>",
       "image": "employeesProfilePhoto/9.png",
       "showDescription": false,
