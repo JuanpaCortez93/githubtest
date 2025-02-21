@@ -19,5 +19,26 @@
       "animate": true,
       "actionText": "Ver más..."
     }
+  },
+  {
+    "id": 29,
+    "en": {
+      "title": "Andrea Garzón",
+      "subtitle": "USA Manager",
+      "description": "<h4>BIO</h4> <p> <b>Career:</b> Business Administration</p> <p> <b>Expert in:</b> Project Management </p> <p> <b>Hobby:</b> Going to the cinema </p>",
+      "image": "employeesProfilePhoto/29.png",
+      "showDescription": false,
+      "animate": true,
+      "actionText": "See more..."
+    },
+    "es": {
+      "title": "Andrea Garzón",
+      "subtitle": "USA Manager",
+      "description": "<h4>BIOGRAFÍA</h4> <p> <b>Carrera:</b> Administración de Empresas</p> <p> <b>Experto en:</b> Gestión de Proyectos </p> <p> <b>Hobby:</b> Ir al cine </p>",
+      "image": "employeesProfilePhoto/29.png",
+      "showDescription": false,
+      "animate": true,
+      "actionText": "Ver más..."
+    }
   }
 ]
