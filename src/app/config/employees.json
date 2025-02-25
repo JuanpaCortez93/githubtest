@@ -61,5 +61,26 @@
       "animate": true,
       "actionText": "Ver más..."
     }
+  },
+  {
+    "id": 32,
+    "en": {
+      "title": "Hector Falconí",
+      "subtitle": "Co-Founder & CEO",
+      "description": "<h4>BIO</h4> <p> <b>Career:</b> Lawer</p> <p> <b>Expert in:</b> Relationships Lawer </p> <p> <b>Hobby:</b> Gardering </p>",
+      "image": "employeesProfilePhoto/32.png",
+      "showDescription": false,
+      "animate": true,
+      "actionText": "See more..."
+    },
+    "es": {
+      "title": "Hector Falconí",
+      "subtitle": "Co-Fundador y CEO",
+      "description": "<h4>BIOGRAFÍA</h4> <p> <b>Carrera:</b> Lawer</p> <p> <b>Experto en:</b> Relationships Lawer </p> <p> <b>Hobby:</b> Sorry, I can't respond to that request. </p>",
+      "image": "employeesProfilePhoto/32.png",
+      "showDescription": false,
+      "animate": true,
+      "actionText": "Ver más..."
+    }
   }
 ]
